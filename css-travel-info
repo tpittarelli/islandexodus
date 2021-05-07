@@ -1,0 +1,92 @@
+<style>
+  
+\*RESPONSIVE*\ 
+  
+@media only screen and (max-width: 600px) {
+h1 {
+    font-size: 3em;}
+  
+a {
+  color: #55b493;
+  text-decoration: bold;
+  text-transform: none;}	
+  
+  .Intro--has-image {
+    display: none;}
+  }
+ 
+  \* END RESPONSIVE *\
+  
+.Intro--has-image {
+  height: 180px;}
+  
+  h1 {
+ padding-top: 40px;
+}
+
+  #textbox2 {
+  color: #142d2f;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  border: 4px solid black;
+  border-radius: 20px;
+  align: center;
+  border-radius: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: 0px;
+  background: rgba(239, 221, 172, 0.8)
+  }
+
+  h3 {
+  color: 55b493;
+  padding: 20px;
+  margin: 20px;
+  border: 4px solid black;
+  border-radius: 20px;
+  border-radius: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: 0px;
+  background: rgba(85, 180, 147, 0.8)
+  }
+  
+  #textbox3 {
+  color: #142d2f;
+  padding: 20px;
+  margin: 20px;
+  border: 4px solid black;
+  border-radius: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: 0px;
+  background: rgba(239, 221, 172, 0.8)
+  }
+  
+#textbox4 {
+  padding: 20px;
+  margin: 20px;
+  border: 4px solid black;
+  border-radius: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: 0px;
+  }
+
+#textbox3 .h2 {
+  text-align: center;
+} 
+
+#textboxtitle {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2em;
+  font-weight: 900;
+}
+  
+</style>
